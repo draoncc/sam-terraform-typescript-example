@@ -1,0 +1,9 @@
+builds/
+*.zip
+.aws-sam
+.terraform
+.aws-sam-iacs/
+.DS_Store
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
